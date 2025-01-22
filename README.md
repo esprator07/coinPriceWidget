@@ -9,4 +9,8 @@ The widget that displays the prices of the coins.
 ![image](https://github.com/user-attachments/assets/80fd76e1-9aa2-4f0c-a940-7c799637375e)
 
 
-![image](https://github.com/user-attachments/assets/b4fda677-bac9-43bd-8f36-7239749305e0)
+![image](https://github.com/user-attachments/assets/7f9d844d-e1ce-4a6b-a5ca-dea892a7839e)
+
+
+The detailed explanation is available on the following site.
+https://www.atakaneksi.com/en/post/coin-value-display-widget
